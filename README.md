@@ -1,1 +1,6 @@
 # halwarsing-corp.
+RU-ru Это моё первое приложение на github. Это приложение для проведения подсчёта. Записываете в первый столбец сколько уже отложили, во второй сколько вы хотите накопить, в третий сколько вы откладываете в месяц. Следующсее что вам нужно сделать это нажать на кнопку.Справа покажет сколько времени понадобится чтобы накопить, снизу сколько процентов от цели вы накопили. Хорошего дня!
+
+EN-en This is my first github app.  This is a counting application.  You write down in the first column how much you have already set aside, in the second how much you want to save, in the third how much you save in a month.  The next thing you need to do is click on the button. On the right will show how much time it will take to accumulate, from the bottom how many percent of the goal you have accumulated. Have a nice day!
+
+DE-de Dies ist meine erste Github-App.  Dies ist eine Zählanwendung.  Sie schreiben in der ersten Spalte auf, wie viel Sie bereits beiseite gelegt haben, in der zweiten, wie viel Sie sparen möchten, in der dritten, wie viel Sie in einem Monat sparen.  Das nächste, was Sie tun müssen, ist die Taste zu drücken. Auf der rechten Seite wird angezeigt, wie viel Zeit zum Sammeln benötigt wird, von unten, wie viele Prozent des Ziels Sie angesammelt haben.  Einen schönen Tag noch!
