@@ -1,0 +1,14 @@
+D:\vr\vr\bin\Debug\vr.exe.config
+D:\vr\vr\bin\Debug\vr.exe.manifest
+D:\vr\vr\bin\Debug\vr.application
+D:\vr\vr\bin\Debug\vr.exe
+D:\vr\vr\bin\Debug\vr.pdb
+D:\vr\vr\obj\Debug\Piggy bank.csprojAssemblyReference.cache
+D:\vr\vr\obj\Debug\vr.Form1.resources
+D:\vr\vr\obj\Debug\vr.Properties.Resources.resources
+D:\vr\vr\obj\Debug\Piggy bank.csproj.GenerateResource.cache
+D:\vr\vr\obj\Debug\Piggy bank.csproj.CoreCompileInputs.cache
+D:\vr\vr\obj\Debug\vr.exe.manifest
+D:\vr\vr\obj\Debug\vr.application
+D:\vr\vr\obj\Debug\vr.exe
+D:\vr\vr\obj\Debug\vr.pdb
